@@ -1,5 +1,5 @@
 [package]
-name = "fast-streaming-commands"
+name = "fast_streaming_commands"
 version = "0.1.0"
 edition = "2021"
 
